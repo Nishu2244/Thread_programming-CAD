@@ -14,3 +14,12 @@ What’s Thread & Multi-threading?
 Task Flow of Project
 
  ![image](https://user-images.githubusercontent.com/97733857/226978029-0641637d-7d96-4ed5-b074-802d37a4e1dc.png)
+ 
+ Multi-Threading Implementation
+
+   > Searching of Particular Note.
+    
+   > Note editing
+   
+   > Authentication
+
