@@ -4,7 +4,9 @@
 What’s Thread & Multi-threading?
 
  > A thread is a single sequence of instructions.
+ 
  > Multi-threading is the technique of using multiple threads.
+ 
  > A process is a program in execution, whereas a thread is a subset of a process.
 
 
